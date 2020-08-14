@@ -1,4 +1,11 @@
 ### Hi there 👋
+Just a young coder learning C++ and Assembly ¯\_(ツ)_/¯
+
+```
+Working on:
+  Compiler in C++
+  Game stuff
+```
 
 <!--
 **BIuet/BIuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
