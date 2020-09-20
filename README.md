@@ -1,5 +1,5 @@
 ### Hi there 👋
-Just a young coder learning C++ and Assembly ¯\_(ツ)_/¯
+Just a young coder learning C++ and developing an online game ¯\_(ツ)_/¯
 
 ```
 Working on:
