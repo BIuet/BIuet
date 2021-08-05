@@ -1,10 +1,9 @@
 ### Hi there 👋
-Just a young coder learning C++ and developing an online game ¯\_(ツ)_/¯
+Just a young coder developing an online game ¯\_(ツ)_/¯
 
 ```
 Working on:
-  Compiler in C++
-  Game stuff
+  a tiny online multiplayer game inspired by AcolyteFight.io
 ```
 
 <!--
